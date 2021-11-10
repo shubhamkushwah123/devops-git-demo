@@ -3,6 +3,6 @@ public class Demo{
 		System.out.println("Hello World");
 		System.out.println("Learning git and DevOps");
 		
-		//updated in remote
+		//updated in remote for conflict
 	}
 }
